@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  <h1>SỐ TIỀN ĐÔ LA CỦA BẠN  LÀ: ${DOla}</h1>
+  <h1>SỐ TIỀN ĐÔ LA CỦA BẠN  LÀ: ${vnd}</h1>
   </body>
 </html>
